@@ -1,6 +1,6 @@
 # happyBirthdayBuzzer
 Happy birthday melody using piezo buzzer with Arduino UNO.
-> coded @ Genuino Day 2016 - Fablab Sardegna Ricerche (Pula - Italy)
+> coded @ Genuino Day 2016 - Fablab Sardegna Ricerche CRS4 (Pula - Italy)
 
 # Sheet birthday music
 ![happy-birthday-sheet](http://www.music-for-music-teachers.com/images/happy-birthday-lead-sheet.gif)
